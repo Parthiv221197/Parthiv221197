@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parthiv
 - 👀 I’m interested in DevOps and Cyber Security
 - 🌱 I’m currently learning Azure and Networking
-- 💞️ I’m working as a co-op student with CIBC
+- 💞️ I’m working with CIBC
 - 📫 You can reach me via email at Parthiv221197@gmail.com
 
 <!---
